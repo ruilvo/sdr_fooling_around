@@ -7,7 +7,6 @@
   "cmake.preferredGenerators": ["Ninja"],
   "cmake.copyCompileCommands": "${workspaceFolder}/compile_commands.json",
   "cmake.configureEnvironment": {
-    "CMAKE_PREFIX_PATH": "D:/Programs/Qt/5.15.2/msvc2019_64",
     "FETCHCONTENT_QUIET": "OFF"
   },
   "[cmake]": {
